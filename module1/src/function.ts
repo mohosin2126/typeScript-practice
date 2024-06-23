@@ -1,4 +1,6 @@
-// normal function 
+
+{
+    // normal function 
 
 function add(num1:number,num2:number):number {
 
@@ -23,4 +25,5 @@ const poorUser={
     addBalance(balance:number):number{
         return this.balance+balance
     }
+}
 }

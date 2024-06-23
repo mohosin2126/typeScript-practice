@@ -1,3 +1,6 @@
+{
+
+
 // reference type 
 
 const user: {
@@ -11,5 +14,7 @@ const user: {
     lastName:"shah",
     isMarried:true,
    company:"Programming hero"
+
+}
 
 }
