@@ -24,3 +24,4 @@ let y:null =null
 let friends : string []=["hii","hello"]
 
 let eligibleRoll : number []=[123,456]
+
